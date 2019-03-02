@@ -1,0 +1,9 @@
+p{color: fuchsia}
+#header{color:green}
+.tit
+{background: #e6f0a3;
+background: -moz-linear-gradient(top, #e6f0a3 0%, #d2e638 39%, #c3d825 60%, #dbf043 100%);
+background: -webkit-linear-gradient(top, #e6f0a3 0%,#d2e638 39%,#c3d825 60%,#dbf043 100%);
+background: linear-gradient(to bottom, #e6f0a3 0%,#d2e638 39%,#c3d825 60%,#dbf043 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e6f0a3', endColorstr='#dbf043',GradientType=0 );
+}
